@@ -14,9 +14,9 @@ This repository contains multiple files showcasing neural network implementation
 
 ## Files
 
-- `FullCodeNeuralNetwork.ipynb`: Contains the complete implementation of a neural network from scratch.
-- `practice_example_Neural_Network.ipynb`: Includes short implementations of each function used in a neural network, serving as practice examples.
-- `Project/SocialMedia_vs_Emotion.ipynb`: A Jupyter notebook containing the project implementation analyzing the relationship between social media activity and emotion.
+- [`FullCodeNeuralNetwork.ipynb`](#fullcodeneuralnetwork): Contains the complete implementation of a neural network from scratch.
+- [`practice_example_Neural_Network.ipynb`](#practice_exampleneural_network): Includes short implementations of each function used in a neural network, serving as practice examples.
+- [`Project/SocialMedia_vs_Emotion.ipynb`](#socialmediavsemotion): A Jupyter notebook containing the project implementation analyzing the relationship between social media activity and emotion.
 
 ## Installation
 
@@ -35,6 +35,12 @@ This Jupyter notebook contains practice examples for individual functions used i
 
 `SocialMedia_vs_Emotion.ipynb`
 This notebook contains the project analyzing social media data to determine emotional trends.
+
+## View Files on GitHub
+If the files are not visible in the repository directory, you can view them directly using these links:
+- [`FullCodeNeuralNetwork.ipynb`](https://colab.research.google.com/github/HimanshuMK/Neural-Network-from-Scratch/blob/main/FullCodeNeuralNetwork.ipynb)
+- [`practice_example_Neural_Network.ipynb`](https://colab.research.google.com/github/HimanshuMK/Neural-Network-from-Scratch/blob/main/practice_example_Neural_Network.ipynb)
+- [`Project/SocialMedia_vs_Emotion.ipynb`](https://colab.research.google.com/github/HimanshuMK/Neural-Network-from-Scratch/blob/main/SocialMedia_vs_Emotion.ipynb)
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
